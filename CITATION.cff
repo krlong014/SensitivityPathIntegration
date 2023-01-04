@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sensitivity Path Integration
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Katharine
+    family-names: Long
+    email: katharine.long@ttu.edu
+    affiliation: Texas Tech University
+  - given-names: Lourdes
+    family-names: Juan
+    email: lourdes.juan@ttu.edu
+    affiliation: Texas Tech University
+  - given-names: Andrey
+    family-names: Morozov
+    email: am379@leicester.ac.uk
+    affiliation: University of Leicester
+  - given-names: Jackson
+    family-names: Kulik
+    email: jpk258@cornell.edu
+    affiliation: Cornell University
+  - given-names: Jacob
+    family-names: Slocum
+    email: Jacob.Slocum@ttu.edu
+    affiliation: Texas Tech University
+repository-code: >-
+  https://github.com/krlong014/SensitivityPathIntegration
+abstract: >-
+  Path integration for quantification of structural
+  sensitivity
+keywords:
+  - Path integration
+  - Structural sensitvity
+  - Trophic networks
+commit: main 69c837e
+date-released: '2023-01-04'

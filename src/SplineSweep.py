@@ -7,11 +7,9 @@ from Worker import *
 from Task import *
 import logging
 from SplineResponseFunction import *
-#from FEMResponseFunction import *
 from ChemostatModelMgr import *
 from LimitPointSampleHandler import *
 from ResponseData import *
-#from FEMProposalGenerator import *
 from SplineProposalGenerator import *
 from MultiParamProposalGenerator import *
 from MHSampler import *
